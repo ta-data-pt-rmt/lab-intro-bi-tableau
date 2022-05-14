@@ -1,1 +1,6 @@
+lab-intro-bi-tableau:
+
 https://public.tableau.com/views/IntroBITableau_16524666275760/0_bins?:language=de-DE&publish=yes&:display_count=n&:origin=viz_share_link
+
+
+
